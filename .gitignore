@@ -1,0 +1,10 @@
+.nextflow.log/*
+.nextflow/cache/*
+.nextflow
+.hextflow/*
+.nextflow.*
+.Rhistory*
+.csv
+.csv*
+*.sif
+cache/
